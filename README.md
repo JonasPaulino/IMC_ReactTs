@@ -8,4 +8,4 @@
 
 <br/>
 <h1>Baixe e divirta-se</h1>
-<p> para rodar o projeto primeiro precisa instalar npm install, depois startar o projeto npm start</p>
+<p> para rodar o projeto primeiro precisa instalar `npm install`, depois startar o projeto `npm start`</p>
