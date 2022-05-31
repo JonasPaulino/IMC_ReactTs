@@ -2,9 +2,9 @@
 
 <h1>Algumas imagens do projeto</h1>
 <h3>Tela principal</h3>
-<img src="./assets/img/principal.PNG"> <br>
+<img src="./src/assets/img/principal.PNG"> <br>
 <h3>Tela resultado</h3>
-<img src="./assets/img/resultado.PNG"> <br>
+<img src="./src/assets/img/resultado.PNG"> <br>
 
 <br/>
 <h1>Baixe e divirta-se</h1>
