@@ -1,4 +1,4 @@
-👋 Olá tudo bem? Sou Jonas Paulino, devido as fortes chuvas não tive aula então testando os conhecimentos em react 🤣🤣..
+👋 Olá tudo bem? Sou Jonas Paulino, devido as fortes chuvas não tive aula então testando os conhecimentos em react.
 
 <h1>Algumas imagens do projeto</h1>
 <h3>Tela principal</h3>
